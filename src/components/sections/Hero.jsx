@@ -31,7 +31,7 @@ function Hero() {
             className="hs-tooltip-content hs-tooltip-shown:opacity-100 hs-tooltip-shown:visible opacity-0 transition-opacity inline-block absolute invisible z-10 py-1 px-2 bg-white border dark:border-zinc-800 dark:bg-zinc-950 text-xs font-medium text-zinc-950 dark:text-white rounded shadow-sm"
             role="tooltip"
           >
-            Smt 5 Dancok angel eram 🤯
+            start switch web dev Juni,masi noob bgt🙇🏼
           </span>
           <div className="hidden lg:block w-[480px] self-center">
             <img
